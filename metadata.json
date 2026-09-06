@@ -1,0 +1,6 @@
+{
+  "name": "AI Personal Branding IQ Assessment",
+  "description": "Measure Personal Branding Intelligence using AI-powered industry-oriented workplace scenario assessments. Powered by Kapil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
